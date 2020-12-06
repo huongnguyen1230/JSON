@@ -1,0 +1,29 @@
+{
+  "menu": {
+    "header": "SVG Viewer",
+    "items": [
+      {"id": "Open", "label": "open "},
+      {"id":  "openNew", "label":"open new" },
+      null,
+      {"id": "ZoomIn", "label": "zoom in"},
+      {"id": "ZoomOut", "label": "zoom out"},
+      {"id": "OriginalView", "label": "original view"},
+      null,
+      {"id": "Quality", "label": "quality"},
+      {"id": "Pause", "label": "Pause"},
+      {"id": "Mute", "label": "mute"},
+      null,
+      {"id": "find", "label": "find..."},
+      {"id": "findAgain", "label": "find again"},
+      {"id": "copy", "label": "copy"},
+      {"id": "copyAgain", "label": "copy again"},
+      {"id": "copySVG", "label": "copy SVG"},
+      {"id": "ViewSVG", "label": "view svg"},
+      {"id": "SaveAs", "label": "Save as"},
+      null,
+      {"id": "Help", "label": "help"},
+      {"id": "about", "label": "about....."}
+
+    ]
+  }
+}
